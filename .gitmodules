@@ -1,0 +1,3 @@
+[submodule "villainy-octopress-theme"]
+	path = villainy-octopress-theme
+	url = git@github.com:mikeclarke/villainy-octopress-theme.git
